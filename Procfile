@@ -1,1 +1,1 @@
-web: gunicorn authsystem.wsgi
+web: gunicorn djangoProject2.wsgi
